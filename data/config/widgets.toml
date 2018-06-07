@@ -1,0 +1,31 @@
+[about]
+title = ""
+description = ""
+logo = "/images/logo_b_ch.png"
+
+[recent_posts]
+title = ""
+length = 5
+excludeTypes = ["page","partie","root","faits","docs"]
+
+[derniere_partie]
+title = ""
+length = 5
+excludeTypes = ["page","billet","root","faits","docs"]
+
+[sidebar_menu]
+title = ""
+mirror = ""
+
+#[social_menu]
+#title = ""
+#platforms = ["github","facebook","twitter","instagram","email","codepen","gitlab","linkedin","telegram","google_scholar"]
+
+[social_menu]
+title = ""
+platforms = ["facebook","instagram","email","gitlab"]
+
+[taxonomy_cloud]
+title = ""
+taxonomy = "tags"
+shuffle = true
